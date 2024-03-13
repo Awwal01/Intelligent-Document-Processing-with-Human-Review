@@ -11,16 +11,15 @@ In this lab we will walk through a hands-on lab on document classification using
 - If Comprehend's confidence in the document type is below a certain threshold, send the document to a human for review using A2I.
 
 ### Steps
-Step 1: Setup notebook and upload sample documents to Amazon S3
-Step 2: Extract text from sample documents using Amazon Textract
-Step 3: Prepare a CSV training dataset for Amazon Comprehend custom classifier training
-Step 4: Create Amazon Comprehend Classification training job
-Step 5: Classify documents with Amazon Comprehend custom classifier
-Step 6: Amazon Augmented AI
+1. Step 1: Setup notebook and upload sample documents to Amazon S3
+2. Step 2: Extract text from sample documents using Amazon Textract
+3. Step 3: Prepare a CSV training dataset for Amazon Comprehend custom classifier training
+4. Step 4: Create Amazon Comprehend Classification training job
+5. Step 5: Classify documents with Amazon Comprehend custom classifier
+6. Step 6: Amazon Augmented AI
 
 ### Benefits
 - Decreases human error
 - It decreases employee workload, letting them focus on certain edge cases requiring human verification
 - Increases scale of enterprise document processing
 - Reduce cost of document processing
-  
