@@ -1,3 +1,4 @@
+### Intelligent Document Processing
 In this lab we will walk through a hands-on lab on document classification using Amazon Comprehend Custom Classifier. We will use Amazon Textract to extract the text from documents, label the documents, the extract text and label as data for training our Amazon comprehend classifier. We use Amazon Comprehend Analysis job to perform batch analysis for our document classification, and sent documents where classification confidence fell below a set threshold for a to human review.
 
 ### Solution Overview
@@ -16,3 +17,10 @@ Step 3: Prepare a CSV training dataset for Amazon Comprehend custom classifier t
 Step 4: Create Amazon Comprehend Classification training job
 Step 5: Classify documents with Amazon Comprehend custom classifier
 Step 6: Amazon Augmented AI
+
+### Benefits
+- Decreases human error
+- It decreases employee workload, letting them focus on certain edge cases requiring human verification
+- Increases scale of enterprise document processing
+- Reduce cost of document processing
+  
